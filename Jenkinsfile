@@ -17,4 +17,4 @@ pipeline {
         echo "deploying the app ..."
       }
     }
-
+}
